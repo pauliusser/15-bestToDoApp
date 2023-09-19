@@ -78,6 +78,7 @@ button {
 }
 .page-wrapper {
 	width: 50%;
+	max-width: 800px;
 	margin: auto;
 	margin-top: 100px;
 	display: flex;
